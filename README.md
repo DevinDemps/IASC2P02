@@ -9,4 +9,4 @@ Just a "casual" F/GO player and I suck at OSU.
 
 ## Blog Post
 
-SENTENCE HERE FOR BLOG!
+SENTENCE HERE FOR BLOG! [countine reading](blog)
