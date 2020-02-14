@@ -4,8 +4,8 @@
 
 Just a "casual" F/GO player and I suck at OSU.
 
-![](imagez/img1.gif)
-![](imagez/img2.jpg)
+![](images/img1.gif)
+![](images/img2.jpg)
 
 ## Blog Post
 
