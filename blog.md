@@ -12,7 +12,7 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 477px; height: 399px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=1b9657ddd216d30e20b299ca5437a7dd'></iframe>
+<iframe style='width: 200%; height: 200%;' src='https://voyant-tools.org/tool/Cirrus/?corpus=1b9657ddd216d30e20b299ca5437a7dd'></iframe>
 
 <!--	Exported from Voyant Tools (voyant-tools.org).
 The iframe src attribute below uses a relative protocol to better function with both
