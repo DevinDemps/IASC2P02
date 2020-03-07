@@ -1,0 +1,7 @@
+.paraIndent {
+	text-indent: 30px;
+}
+.hangIndent {
+  padding-left: 30px ;
+  text-indent: -30px ;
+}
